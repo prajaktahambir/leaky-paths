@@ -18,4 +18,4 @@ You are welcome to create a new pull request if you have a new endpoint to inclu
 Please keep in mind that the wordlist is intentionally kept short in order to focus only on high-quality endpoints, so it is not comprehensive enough for active scanning.
 
 Please see [Assetnote](https://wordlists.assetnote.io/) and [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content) for extended and large wordlists
-
+Triggering Radar scan
